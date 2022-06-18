@@ -1,4 +1,4 @@
-# node-docker-redis
+# node-redis-docker
 
 We will create `Dockerfile` and `docker-compose.yml` files purely hands-on from sratch to run Node API and cache the content with Redis.
 
