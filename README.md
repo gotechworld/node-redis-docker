@@ -1,6 +1,6 @@
-# node-redis-docker
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=petrugiurca_node-redis-docker)
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=petrugiurca_node-redis-docker&metric=alert_status&token=1fab64f570dc7bd5cad6476969b7af2ab3284881)](https://sonarcloud.io/summary/new_code?id=petrugiurca_node-redis-docker)
+# node-redis-docker
 
 We will create `Dockerfile` and `docker-compose.yml` files purely hands-on from sratch to run Node API and cache the content with Redis.
 
